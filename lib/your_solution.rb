@@ -1,3 +1,3 @@
-# Write your solution here
+rubyWrite your solution here
 
 # This file should output "Hello World!" using a puts statement
